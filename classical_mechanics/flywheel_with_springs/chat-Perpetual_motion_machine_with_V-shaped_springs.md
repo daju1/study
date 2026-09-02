@@ -27,7 +27,7 @@
 ### USER
 слушай помоги мне составить модель этого вечного двигателя в полном соответствии с принципом Гамильтона
 
-[classical_mechanics/flywheel_with_springs/flywheel_with_springs.ipynb](flywheel_with_springs.ipynb)
+[classical_mechanics/flywheel_with_springs/flywheel_with_springs.ipynb](https://github.com/daju1/study/blob/main/classical_mechanics/flywheel_with_springs/flywheel_with_springs.ipynb)
 
 это я начал составлять юпитер ноутбук но по прошествии времени я уже забыл что значит каждая переменная
 
