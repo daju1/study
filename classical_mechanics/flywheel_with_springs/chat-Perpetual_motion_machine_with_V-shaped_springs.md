@@ -1788,7 +1788,7 @@ print("="*70)
 ### USER
 вот смотри что получилось
 
-[classical_mechanics/flywheel_with_springs/flywheel_with_magnets.ipynb](https://github.com/daju1/study/blob/main/classical_mechanics/flywheel_with_springs/flywheel_with_magnets.ipynb)
+[flywheel_with_magnets.ipynb](flywheel_with_magnets.ipynb)
 
 но есть вопрос ты сразу после лагранжиана записал
 уравнение Эйлера Лагранжа
